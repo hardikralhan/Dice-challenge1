@@ -7,3 +7,4 @@ It is a dice game for two players where the player refreshes the page everytime,
 
 ![image](https://user-images.githubusercontent.com/77456767/150951564-2e86ae56-64cc-4621-97e2-b5c49b8f7e4f.png)
 
+THAnks
